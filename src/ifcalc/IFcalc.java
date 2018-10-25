@@ -5,6 +5,8 @@
  */
 package ifcalc;
 
+import java.awt.Color;
+
 /**
  *
  * @author 20171144010008
