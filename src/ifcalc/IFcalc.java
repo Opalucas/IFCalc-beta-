@@ -5,7 +5,6 @@
  */
 package ifcalc;
 
-import java.awt.Color;
 
 /**
  *
